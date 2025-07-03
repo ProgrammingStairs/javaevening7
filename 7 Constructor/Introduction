@@ -5,7 +5,7 @@ Constructor
 3. Constructor will be called automatically when ever object of a class is created.
 4. Constructor does not return any value not even void.
 5. Initial work of constructor is to construct object.
-6. Constructor is responsible for providing default initial value to data members.
+6. JVM is responsible for providing default initial value to data members.
 7. Constructor chaining is possible in java 
 8. Default copy constructor is absent in java .
 9. Types of constructor : 
