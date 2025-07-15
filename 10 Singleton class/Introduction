@@ -1,0 +1,8 @@
+Singleton class
+===============
+Singleton class is a class which can have only one object at a time, and after that if we try to create another object then in that case the new reference variable also points to the previously created object.
+
+Rules to create Singleton class : 
+
+1. Make constructor private
+2. Make a static method which returns object of that singleton class and whose return type is of that specific Singleton class
