@@ -57,7 +57,14 @@
         d. class contains data members and member functions
         e. class is a collection of similar type of objects
 
-    3. Inheritance 
+    3. Inheritance : Inheritance is the process in which object of one class may inherit the properties of object of another class. 
+
+    Here parent class is also known as super class or base class whereas child class is also known as sub class or derived class. 
+
+    Types of inheritance : 
+        a. Single Inheritance 
+        b. Multi level Inheritance 
+        c. Hierarchical Inheritance
 
     4. Encapsulation : 
         Wrapping up of data members and member functions into single unit that is in object, is known as Encapsulation. 
